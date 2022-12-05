@@ -1,6 +1,6 @@
 # StyleNeuro
 
-Style Transfer
+Style Transfer <br>
 Training Tranfer Learning and VGG-19 <br>
 
 ✅ CCN <br>
